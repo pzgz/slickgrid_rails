@@ -1,6 +1,6 @@
 # Slickgrid for rails
 
-A simple wrap of slickgrid for rails, asset pipeline enabled
+A simple wrap of [SlickGrid](https://github.com/mleibman/SlickGrid) for rails, asset pipeline enabled.
 
 ## Installation
 
