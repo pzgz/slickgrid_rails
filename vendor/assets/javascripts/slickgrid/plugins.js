@@ -1,0 +1,10 @@
+//= require slickgrid/plugins/slick.autotooltips.js
+//= require slickgrid/plugins/slick.cellcopymanager.js
+//= require slickgrid/plugins/slick.cellrangedecorator.js
+//= require slickgrid/plugins/slick.cellrangeselector.js
+//= require slickgrid/plugins/slick.cellselectionmodel.js
+//= require slickgrid/plugins/slick.checkboxselectcolumn.js
+//= require slickgrid/plugins/slick.headerbuttons.js
+//= require slickgrid/plugins/slick.headermenu.js
+//= require slickgrid/plugins/slick.rowmovemanager.js
+//= require slickgrid/plugins/slick.rowselectionmodel.js
