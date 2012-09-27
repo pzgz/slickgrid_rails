@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = SlickgridRails::VERSION
   gem.authors       = ["Leon Guan"]
   gem.email         = ["leon.guan@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Simple gem wrap up the slickgrid jquery plugin}
+  gem.summary       = %q{Simple gem wrap up the slickgrid jquery plugin}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
