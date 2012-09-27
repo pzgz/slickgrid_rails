@@ -26,7 +26,6 @@ In ```application.js``` file, added following to include all javascript files fo
 
 ```js
 //= require slickgrid
-
 ```
 
 #### More detail way
@@ -37,7 +36,6 @@ In ```application.js``` file, added following to include all javascript files fo
 //= require slickgrid/core
 //= require slickgrid/controls
 //= require slickgrid/plugins
-
 ```
 
 #### Most detail way
