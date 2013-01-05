@@ -16,6 +16,13 @@ Or install it yourself as:
 
     $ gem install slickgrid_rails
 
+## Updating slickrails from original fork
+
+The slickrails javascript lib has been imported via submodule, to update this gem, do following:
+
+    git submodule foreach git pull
+    rake
+
 ## Usage
 
 ### Javascripts
